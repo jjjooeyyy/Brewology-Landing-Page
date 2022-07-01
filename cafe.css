@@ -109,7 +109,8 @@ align-items: center;
 
 .box {
 width: 700px;
-text-align: center;
+text-align: justify;
+text-justify:inter-word;
 }
 
 button {
